@@ -1,0 +1,19 @@
+c:\users\chanchamayo\documents\visual studio 2017\Projects\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.exe.config
+c:\users\chanchamayo\documents\visual studio 2017\Projects\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.exe
+c:\users\chanchamayo\documents\visual studio 2017\Projects\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.pdb
+c:\users\chanchamayo\documents\visual studio 2017\Projects\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.csprojResolveAssemblyReference.cache
+c:\users\chanchamayo\documents\visual studio 2017\Projects\Cờ Caro\Cờ Caro\obj\Debug\Cờ_Caro.frmCoCaro.resources
+c:\users\chanchamayo\documents\visual studio 2017\Projects\Cờ Caro\Cờ Caro\obj\Debug\Cờ_Caro.Properties.Resources.resources
+c:\users\chanchamayo\documents\visual studio 2017\Projects\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.csproj.GenerateResource.Cache
+c:\users\chanchamayo\documents\visual studio 2017\Projects\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.exe
+c:\users\chanchamayo\documents\visual studio 2017\Projects\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.pdb
+D:\PROJECT CTDL\C___-Caro\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.exe.config
+D:\PROJECT CTDL\C___-Caro\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.exe
+D:\PROJECT CTDL\C___-Caro\Cờ Caro\Cờ Caro\bin\Debug\Cờ Caro.pdb
+D:\PROJECT CTDL\C___-Caro\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.csprojResolveAssemblyReference.cache
+D:\PROJECT CTDL\C___-Caro\Cờ Caro\Cờ Caro\obj\Debug\Cờ_Caro.frmCoCaro.resources
+D:\PROJECT CTDL\C___-Caro\Cờ Caro\Cờ Caro\obj\Debug\Cờ_Caro.Properties.Resources.resources
+D:\PROJECT CTDL\C___-Caro\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.csproj.GenerateResource.Cache
+D:\PROJECT CTDL\C___-Caro\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.csproj.CoreCompileInputs.cache
+D:\PROJECT CTDL\C___-Caro\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.exe
+D:\PROJECT CTDL\C___-Caro\Cờ Caro\Cờ Caro\obj\Debug\Cờ Caro.pdb
