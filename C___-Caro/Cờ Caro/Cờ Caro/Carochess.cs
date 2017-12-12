@@ -45,7 +45,7 @@ namespace Cờ_Caro
             pen = new Pen(Color.Red);  //224, 224, 224
             sbwhite = new SolidBrush(Color.White);
             sbblack = new SolidBrush(Color.Black);
-            sbcontroldark = new SolidBrush(Color.FromArgb(192, 255, 255));
+            sbcontroldark = new SolidBrush(Color.FromArgb(192, 192, 255));
             stkcacnuocdadi = new Stack<Ô_cờ>();
             stkcacnuocUndo = new Stack<Ô_cờ>();
             luotdi = 1;

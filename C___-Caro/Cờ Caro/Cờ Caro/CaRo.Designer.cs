@@ -129,7 +129,7 @@
             // 
             // pnlBanCo
             // 
-            this.pnlBanCo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.pnlBanCo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
             this.pnlBanCo.Location = new System.Drawing.Point(269, 27);
             this.pnlBanCo.Name = "pnlBanCo";
             this.pnlBanCo.Size = new System.Drawing.Size(501, 501);
