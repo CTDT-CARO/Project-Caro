@@ -12,7 +12,6 @@ namespace Cờ_Caro
     {
         private int _Sodong;
         private int _Socot;
-
         public int Sodong
         {
             get { return _Sodong; }
